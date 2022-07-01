@@ -1,0 +1,15 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "This is calculator app that performs computation on serverside and send result directly to user",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Sehgal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
